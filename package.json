@@ -1,0 +1,14 @@
+{
+  "name": "staticfiles",
+  "version": "1.0.0",
+  "description": "HTTP server serving static files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gawd-coder",
+  "license": "ISC",
+  "dependencies": {
+    "mime": "^2.4.5"
+  }
+}
